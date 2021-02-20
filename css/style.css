@@ -1,0 +1,46 @@
+/* *{
+    box-sizing: border-box;
+} */
+
+header{
+    height: 100px;
+    background-color: blanchedalmond;
+} 
+ 
+
+.icons{
+    float: right;
+    margin-top: 3%;
+
+    /* margin-right: 100px; */
+  
+    
+}
+
+.info{
+
+    float: left;
+    display: inline;
+    margin-top: 2%;
+    margin-left: 2%;
+    
+}
+#logo{
+    float: left;
+
+}
+
+body header h3{
+    margin: 5px;
+    margin-left: 20%;
+    font-family: 'Lobster', cursive;
+}
+body header h6{
+    margin: 5px;
+    margin-left: 20%;
+    opacity: 50%;
+   
+}
+main{
+    text-align: center;
+}
